@@ -17,7 +17,7 @@ The dataset is not included in this repository because the dataset file is appro
 
 **Dataset Source:** 
 MLG-ULB Credit Card Dataset from Kaggle
-[Add the original dataset/download link here.](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[original dataset link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Technologies Used
 
